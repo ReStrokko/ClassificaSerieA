@@ -1,0 +1,371 @@
+GIORNATA 34 
+Sassuolo-Juventus 1-2 
+Lazio-Milan 1-2 
+Genoa-Cagliari 1-0 
+Bologna-Udinese 2-2 
+Empoli-Napoli 3-2 
+Salernitana-Fiorentina 2-1 
+Verona-Sampdoria 1-1
+Inter-Roma 3-1
+Torino-Spezia 2-1
+Venezia-Atalanta 1-3
+GIORNATA 19 
+Udinese-Salernitana 0-1 
+GIORNATA 33 
+Atalanta-Verona 1-2
+Napoli-Roma 1-1
+Lazio-Torino 1-1
+Juventus-Bologna 1-1
+Fiorentina-Venezia 1-0
+Sampdoria-Salernitana 1-2
+Udinese-Empoli 4-1
+Cagliari-Sassuolo 1-0
+Milan-Genoa 2-0
+Spezia-Inter 1-3
+GIORNATA 32 
+Bologna-Sampdoria 2-0
+Torino-Milan 0-0
+Roma-Salernitana 2-1
+Napoli-Fiorentina 2-3
+Sassuolo-Atalanta 2-1
+Venezia-Udinese 1-2
+Genoa-Lazio 1-4
+Cagliari-Juventus 1-2
+Inter-Verona 2-0
+Empoli-Spezia 0-0
+GIORNATA 31
+Milan-Bologna 0-0
+Verona-Genoa 1-0
+Juventus-Inter 0-1
+Sampdoria-Roma 0-1
+Atalanta-Napoli1-3
+Udinese-Cagliari 5 1
+Fiorentina-Empoli1-0
+Salernitana-Torino0-1
+Lazio-Sassuolo2-1
+Spezia-Venezia1-0
+GIORNATA 30
+Bologna-Atalanta0-1
+Roma-Lazio 30-(3)
+Empoli-Verona1-1
+Juventus-Salernitana2-0
+Venezia-Sampdoria0-2
+Cagliari-Milan0-1
+Inter-Fiorentina1-1
+Napoli-Udinese2-1
+Genoa-Torino1-0
+Sassuolo-Spezia 4 1
+GIORNATA 29
+Lazio-Venezia1-0
+Torino-Inter1-1
+Atalanta-Genoa0-0
+Udinese-Roma1-1
+Verona-Napoli1-2
+Fiorentina-Bologna1-0
+Milan-Empoli1-0
+Sampdoria-Juventus1-3
+Salernitana-Sassuolo2-2
+Spezia-Cagliari2-0
+GIORNATA 28
+Napoli-Milan0-1
+Juventus-Spezia1-0
+Bologna-Torino0-0
+Fiorentina-Verona1-1
+Venezia-Sassuolo1-4
+Genoa-Empoli0-0
+Cagliari-Lazio0-3
+Roma-Atalanta1-0
+Udinese-Sampdoria2-1
+Inter-Salernitana 5 0
+GIORNATA 27
+Atalanta-Sampdoria 4 0
+Lazio-Napoli1-2
+Spezia-Roma0-1
+Verona-Venezia 3 1
+Torino-Cagliari1-2
+Sassuolo-Fiorentina2-1
+Empoli-Juventus2-3
+Salernitana-Bologna1-1
+Genoa-Inter0-0
+Milan-Udinese1-1
+GIORNATA 26
+Bologna-Spezia2-1
+Cagliari-Napoli1-1
+Udinese-Lazio1-1
+Inter-Sassuolo0-2
+Venezia-Genoa1-1
+Fiorentina-Atalanta1-0
+Salernitana-Milan2-2
+Roma-Verona2-2
+Sampdoria-Empoli2-0
+Juventus-Torino1-1
+GIORNATA 25
+Spezia-Fiorentina1-2
+Atalanta-Juventus1-1
+Sassuolo-Roma2-2
+Empoli-Cagliari1-1
+Genoa-Salernitana1-1
+Verona-Udinese 4 0
+Milan-Sampdoria1-0
+Torino-Venezia1-2
+Napoli-Inter1-1
+Lazio-Bologna 3 0
+GIORNATA 24
+Salernitana-Spezia2-2
+Juventus-Verona2-0
+Udinese-Torino2-0
+Bologna-Empoli0-0
+Sampdoria-Sassuolo 4 0
+Venezia-Napoli0-2
+Atalanta-Cagliari1-2
+Fiorentina-Lazio0-3
+Inter-Milan1-2
+Roma-Genoa0-0
+GIORNATA 23
+Milan-Juventus0-0
+Empoli-Roma2-4
+Napoli-Salernitana 4 1
+Spezia-Sampdoria1-0
+Torino-Sassuolo1-1
+Cagliari-Fiorentina1-1
+Lazio-Atalanta0-0
+Inter-Venezia2-1
+Genoa-Udinese0-0
+Verona-Bologna2-1
+GIORNATA 22
+Fiorentina-Genoa 60-(3)
+Bologna-Napoli0-2
+Milan-Spezia1-2
+Atalanta-Inter0-0
+Roma-Cagliari1-0
+Venezia-Empoli1-1
+Sassuolo-Verona2-4
+Juventus-Udinese2-0
+Salernitana-Lazio0-3
+Sampdoria-Torino1-2
+GIORNATA 21
+Cagliari-Bologna2-1
+Torino-Fiorentina 40-(3)
+Inter-Lazio2-1
+Verona-Salernitana1-2
+Genoa-Spezia0-1
+Roma-Juventus 3 4
+Napoli-Sampdoria1-0
+Udinese-Atalanta2-6
+Empoli-Sassuolo1-5
+Venezia-Milan0-3
+GIORNATA 20
+Juventus-Napoli1-1
+Milan-Roma 3 1
+Sassuolo-Genoa1-1
+Lazio-Empoli 3 3
+Spezia-Verona1-2
+Sampdoria-Cagliari1-2
+GIORNATA 19
+Empoli-Milan2-4
+Napoli-Spezia0-1
+Inter-Torino1-0
+Roma-Sampdoria1-1
+Verona-Fiorentina1-1
+Sassuolo-Bologna0-3
+Venezia-Lazio1-3
+Genoa-Atalanta0-0
+Juventus-Cagliari2-0
+GIORNATA 18
+Milan-Napoli0-1
+Sampdoria-Venezia1-1
+Torino-Verona1-0
+Spezia-Empoli1-1
+Fiorentina-Sassuolo2-2
+Cagliari-Udinese0-4
+Bologna-Juventus0-2
+Atalanta-Roma1-4
+Salernitana-Inter0-5
+Lazio-Genoa 3 1
+GIORNATA 17
+Roma-Spezia2-0
+Inter-Cagliari 4 0
+Napoli-Empoli0-1
+Sassuolo-Lazio2-1
+Verona-Atalanta1-2
+Torino-Bologna2-1
+Udinese-Milan1-1
+Venezia-Juventus1-1
+Fiorentina-Salernitana 4 0
+Genoa-Sampdoria1-3
+GIORNATA 16
+Cagliari-Torino1-1
+Empoli-Udinese 3 1
+Juventus-Genoa2-0
+Sampdoria-Lazio1-3
+Spezia-Sassuolo2-2
+Venezia-Verona 3 4 (3)
+Bologna-Fiorentina2-3
+Napoli-Atalanta2-3
+Roma-Inter0-3
+Milan-Salernitana2-0
+GIORNATA 15
+Lazio-Udinese 4 4
+Torino-Empoli2-2
+Genoa-Milan0-3
+Sassuolo-Napoli2-2
+Bologna-Roma1-0
+Inter-Spezia2-0
+Salernitana-Juventus0-2
+Verona-Cagliari0-0
+Atalanta-Venezia 4 0
+Fiorentina-Sampdoria 31-(3)
+GIORNATA 14
+Napoli-Lazio 40-(3)
+Roma-Torino1-0
+Milan-Sassuolo1-3
+Spezia-Bologna0-1
+Udinese-Genoa0-0
+Venezia-Inter0-2
+Juventus-Atalanta0-1
+Empoli-Fiorentina2-1
+Sampdoria-Verona 3-1
+Cagliari-Salernitana1-1
+GIORNATA 13
+Torino-Udinese2-1
+Verona-Empoli2-1
+Genoa-Roma0-2
+Inter-Napoli 3 2
+Bologna-Venezia0-1
+Salernitana-Sampdoria0-2
+Sassuolo-Cagliari2-2
+Fiorentina-Milan 4 3
+Lazio-Juventus0-2
+Atalanta-Spezia 52-(3)
+GIORNATA 12
+Milan-Inter1-1
+Lazio-Salernitana 3 0
+Napoli-Verona1-1
+Sampdoria-Bologna1-2
+Udinese-Sassuolo 3 2
+Venezia-Roma 3 2
+Cagliari-Atalanta1-2
+Juventus-Fiorentina1-0
+Spezia-Torino1-0
+Empoli-Genoa2-2
+GIORNATA 11
+Bologna-Cagliari2-0
+Roma-Milan1-2
+Salernitana-Napoli0-1
+Fiorentina-Spezia 3 0
+Genoa-Venezia0-0
+Sassuolo-Empoli1-2
+Inter-Udinese2-0
+Torino-Sampdoria 3 0
+Verona-Juventus2-1
+Atalanta-Lazio2-2
+GIORNATA 10
+Napoli-Bologna 3 0
+Cagliari-Roma1-2
+Empoli-Inter0-2
+Lazio-Fiorentina1-0
+Juventus-Sassuolo1-2
+Sampdoria-Atalanta1-3
+Udinese-Verona1-1
+Milan-Torino1-0
+Spezia-Genoa1-1
+Venezia-Salernitana1-2
+GIORNATA 9 
+Inter-Juventus1-1
+Roma-Napoli0-0
+Fiorentina-Cagliari 3 0
+Verona-Lazio 4 1
+Atalanta-Udinese1-1
+Bologna-Milan2-4
+Sassuolo-Venezia 3 1
+Salernitana-Empoli2-4
+Sampdoria-Spezia2-1
+Torino-Genoa 3 2
+GIORNATA 8 
+Venezia-Fiorentina1-0
+Juventus-Roma1-0
+Napoli-Torino1-0
+Empoli-Atalanta1-4
+Genoa-Sassuolo2-2
+Udinese-Bologna1-1
+Cagliari-Sampdoria 3 1
+Milan-Verona 3 2
+Lazio-Inter 3 1
+Spezia-Salernitana2-1
+GIORNATA 7 
+Atalanta-Milan2-3
+Fiorentina-Napoli1-2
+Roma-Empoli2-0
+Sampdoria-Udinese 3 3
+Verona-Spezia 40-(3)
+Bologna-Lazio 3 0
+Sassuolo-Inter1-2
+Torino-Juventus0-1
+Salernitana-Genoa1-0
+Cagliari-Venezia1-1
+GIORNATA 6 
+Venezia-Torino1-1
+Napoli-Cagliari2-0
+Lazio-Roma 3 2
+Empoli-Bologna 4 2
+Sassuolo-Salernitana1-0
+Udinese-Fiorentina0-1
+Juventus-Sampdoria 3 2
+Genoa-Verona 3 3
+Inter-Atalanta2-2
+Spezia-Milan1-2
+GIORNATA 5 
+Roma-Udinese1-0
+Sampdoria-Napoli0-4
+Torino-Lazio1-1
+Cagliari-Empoli0-2
+Milan-Venezia2-0
+Salernitana-Verona2-2
+Spezia-Juventus2-3
+Atalanta-Sassuolo2-1
+Fiorentina-Inter1-3
+Bologna-Genoa2-2
+GIORNATA 4 
+Udinese-Napoli0-4
+Juventus-Milan1-1
+Lazio-Cagliari2-2
+Verona-Roma 3 2
+Venezia-Spezia1-2
+Empoli-Sampdoria0-3
+Salernitana-Atalanta0-1
+Inter-Bologna 61-(3)
+Genoa-Fiorentina1-2
+Sassuolo-Torino0-1
+GIORNATA 3 
+Bologna-Verona1-0
+Roma-Sassuolo2-1
+Milan-Lazio2-0
+Cagliari-Genoa2-3
+Spezia-Udinese0-1
+Torino-Salernitana 4 0
+Sampdoria-Inter2-2
+Atalanta-Fiorentina1-2
+Napoli-Juventus2-1
+Empoli-Venezia1-2
+GIORNATA2-2
+Milan-Cagliari 41-(4)
+Salernitana-Roma0-4
+Genoa-Napoli1-2
+Sassuolo-Sampdoria0-0
+Fiorentina-Torino2-1
+Juventus-Empoli0-1
+Atalanta-Bologna0-0
+Lazio-Spezia 61-(3)
+Verona-Inter1-3
+Udinese-Venezia 3 0
+GIORNATA1-2
+Sampdoria-Milan0-1
+Cagliari-Spezia2-2
+Napoli-Venezia2-0
+Roma-Fiorentina 3 1
+Bologna-Salernitana 3 2
+Udinese-Juventus2-2
+Empoli-Lazio1-3
+Torino-Atalanta1-2
+Inter-Genoa 4 0
+Verona-Sassuolo2-3

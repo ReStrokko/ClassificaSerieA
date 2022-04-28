@@ -1,0 +1,1253 @@
+GIORNATA 34 
+Sassuolo-Juventus 1-2 
+Lazio-Milan 1-2 
+Genoa-Cagliari 1-0 
+Bologna-Udinese 2-2 
+Empoli-Napoli 3-2 
+Salernitana-Fiorentina 2-1 
+Verona-Sampdoria 1-1
+Inter-Roma 3-1
+Torino-Spezia 2-1
+Venezia-Atalanta 1-3
+GIORNATA 19 
+Udinese-Salernitana 0-1 
+GIORNATA 33 
+Atalanta-Verona 1-2
+Napoli-Roma 1-1
+Lazio-Torino 1-1
+Juventus-Bologna 1-1
+Fiorentina-Venezia 1-0
+Sampdoria-Salernitana 1-2
+Udinese-Empoli 4-1
+Cagliari-Sassuolo 1-0
+Milan-Genoa 2-0
+Spezia-Inter 1-3
+GIORNATA 32 
+Bologna-Sampdoria 2-0
+Torino-Milan 0-0
+Roma-Salernitana 2-1
+Napoli-Fiorentina 2-3
+Sassuolo
+Atalanta2-1
+
+ 10.04. 15:00
+Venezia
+Udinese1-2
+
+ 10.04. 12:30
+Genoa
+Lazio1-4
+
+ 09.04. 20:45
+Cagliari
+Juventus1-2
+
+ 09.04. 18:00
+Inter
+Verona2-0
+
+ 09.04. 15:00
+Empoli
+Spezia0-0
+
+ GIORNATA 31 04.04. 20:45
+Milan
+Bologna0-0
+
+ 04.04. 18:30
+Verona
+Genoa1-0
+
+ 03.04. 20:45
+Juventus
+Inter0-1
+
+ 03.04. 18:00
+Sampdoria
+Roma0-1
+
+ 03.04. 15:00
+Atalanta
+Napoli1-3
+
+ 03.04. 15:00
+Udinese
+Cagliari 5 1
+
+ 03.04. 12:30
+Fiorentina
+Empoli1-0
+
+ 02.04. 20:45
+Salernitana
+Torino0-1
+
+ 02.04. 18:00
+Lazio
+Sassuolo2-1
+
+ 02.04. 15:00
+Spezia
+Venezia1-0
+
+ GIORNATA 30 20.03. 20:45
+Bologna
+Atalanta0-1
+
+ 20.03. 18:00
+Roma
+Lazio 30-(3)
+ 20.03. 15:00
+Empoli
+Verona1-1
+
+ 20.03. 15:00
+Juventus
+Salernitana2-0
+
+ 20.03. 12:30
+Venezia
+Sampdoria0-2
+
+ 19.03. 20:45
+Cagliari
+Milan0-1
+
+ 19.03. 18:00
+Inter
+Fiorentina1-1
+
+ 19.03. 15:00
+Napoli
+Udinese2-1
+
+ 18.03. 21:00
+Genoa
+Torino1-0
+
+ 18.03. 18:45
+Sassuolo
+Spezia 4 1
+
+ GIORNATA 29 14.03. 20:45
+Lazio
+Venezia1-0
+
+ 13.03. 20:45
+Torino
+Inter1-1
+
+ 13.03. 18:00
+Atalanta
+Genoa0-0
+
+ 13.03. 18:00
+Udinese
+Roma1-1
+
+ 13.03. 15:00
+Verona
+Napoli1-2
+
+ 13.03. 12:30
+Fiorentina
+Bologna1-0
+
+ 12.03. 20:45
+Milan
+Empoli1-0
+
+ 12.03. 18:00
+Sampdoria
+Juventus1-3
+
+ 12.03. 15:00
+Salernitana
+Sassuolo2-2
+
+ 12.03. 15:00
+Spezia
+Cagliari2-0
+
+ GIORNATA 28 06.03. 20:45
+Napoli
+Milan0-1
+
+ 06.03. 18:00
+Juventus
+Spezia1-0
+
+ 06.03. 15:00
+Bologna
+Torino0-0
+
+ 06.03. 15:00
+Fiorentina
+Verona1-1
+
+ 06.03. 15:00
+Venezia
+Sassuolo1-4
+ (3) 06.03. 12:30
+Genoa
+Empoli0-0
+
+ 05.03. 20:45
+Cagliari
+Lazio0-3
+
+ 05.03. 18:00
+Roma
+Atalanta1-0
+
+ 05.03. 15:00
+Udinese
+Sampdoria2-1
+
+ 04.03. 20:45
+Inter
+Salernitana 5 0
+
+ GIORNATA 27 28.02. 20:50
+Atalanta
+Sampdoria 4 0
+
+ 27.02. 20:50
+Lazio
+Napoli1-2
+
+ 27.02. 18:05
+Spezia
+Roma0-1
+
+ 27.02. 15:05
+Verona
+Venezia 3 1
+
+ 27.02. 12:35
+Torino
+Cagliari1-2
+
+ 26.02. 20:45
+Sassuolo
+Fiorentina2-1
+
+ 26.02. 18:05
+Empoli
+Juventus2-3
+
+ 26.02. 15:05
+Salernitana
+Bologna1-1
+
+ 25.02. 21:00
+Genoa
+Inter0-0
+
+ 25.02. 18:45
+Milan
+Udinese1-1
+
+ GIORNATA 26 21.02. 21:00
+Bologna
+Spezia2-1
+
+ 21.02. 19:00
+Cagliari
+Napoli1-1
+
+ 20.02. 20:45
+Udinese
+Lazio1-1
+
+ 20.02. 18:00
+Inter
+Sassuolo0-2
+
+ 20.02. 15:00
+Venezia
+Genoa1-1
+
+ 20.02. 12:30
+Fiorentina
+Atalanta1-0
+
+ 19.02. 20:45
+Salernitana
+Milan2-2
+
+ 19.02. 18:00
+Roma
+Verona2-2
+
+ 19.02. 15:00
+Sampdoria
+Empoli2-0
+
+ 18.02. 20:45
+Juventus
+Torino1-1
+
+ GIORNATA 25 14.02. 20:45
+Spezia
+Fiorentina1-2
+
+ 13.02. 20:45
+Atalanta
+Juventus1-1
+
+ 13.02. 18:00
+Sassuolo
+Roma2-2
+
+ 13.02. 15:00
+Empoli
+Cagliari1-1
+
+ 13.02. 15:00
+Genoa
+Salernitana1-1
+
+ 13.02. 15:00
+Verona
+Udinese 4 0
+
+ 13.02. 12:30
+Milan
+Sampdoria1-0
+
+ 12.02. 20:45
+Torino
+Venezia1-2
+
+ 12.02. 18:00
+Napoli
+Inter1-1
+
+ 12.02. 15:00
+Lazio
+Bologna 3 0
+
+ GIORNATA 24 07.02. 20:45
+Salernitana
+Spezia2-2
+
+ 06.02. 20:45
+Juventus
+Verona2-0
+
+ 06.02. 18:00
+Udinese
+Torino2-0
+
+ 06.02. 15:00
+Bologna
+Empoli0-0
+
+ 06.02. 15:00
+Sampdoria
+Sassuolo 4 0
+
+ 06.02. 15:00
+Venezia
+Napoli0-2
+
+ 06.02. 12:30
+Atalanta
+Cagliari1-2
+
+ 05.02. 20:45
+Fiorentina
+Lazio0-3
+
+ 05.02. 18:00
+Inter
+Milan1-2
+
+ 05.02. 15:00
+Roma
+Genoa0-0
+
+ GIORNATA 23 23.01. 20:45
+Milan
+Juventus0-0
+
+ 23.01. 18:00
+Empoli
+Roma2-4
+ (4) 23.01. 15:00
+Napoli
+Salernitana 4 1
+
+ 23.01. 15:00
+Spezia
+Sampdoria1-0
+
+ 23.01. 15:00
+Torino
+Sassuolo1-1
+
+ 23.01. 12:30
+Cagliari
+Fiorentina1-1
+
+ 22.01. 20:45
+Lazio
+Atalanta0-0
+
+ 22.01. 18:00
+Inter
+Venezia2-1
+
+ 22.01. 15:00
+Genoa
+Udinese0-0
+
+ 21.01. 20:45
+Verona
+Bologna2-1
+
+ GIORNATA 22 17.01. 20:45
+Fiorentina
+Genoa 60-(3)
+ 17.01. 18:30
+Bologna
+Napoli0-2
+
+ 17.01. 18:30
+Milan
+Spezia1-2
+
+ 16.01. 20:45
+Atalanta
+Inter0-0
+
+ 16.01. 18:00
+Roma
+Cagliari1-0
+
+ 16.01. 15:00
+Venezia
+Empoli1-1
+
+ 16.01. 12:30
+Sassuolo
+Verona2-4
+
+ 15.01. 20:45
+Juventus
+Udinese2-0
+
+ 15.01. 18:00
+Salernitana
+Lazio0-3
+
+ 15.01. 15:00
+Sampdoria
+Torino1-2
+
+ GIORNATA 21 11.01. 20:45
+Cagliari
+Bologna2-1
+
+ 10.01. 17:00
+Torino
+Fiorentina 40-(3)
+ 09.01. 20:45
+Inter
+Lazio2-1
+
+ 09.01. 20:45
+Verona
+Salernitana1-2
+
+ 09.01. 18:30
+Genoa
+Spezia0-1
+
+ 09.01. 18:30
+Roma
+Juventus 3 4
+
+ 09.01. 16:30
+Napoli
+Sampdoria1-0
+
+ 09.01. 16:30
+Udinese
+Atalanta2-6
+ (3) 09.01. 14:30
+Empoli
+Sassuolo1-5
+
+ 09.01. 12:30
+Venezia
+Milan0-3
+
+ GIORNATA 20 06.01. 20:45
+Juventus
+Napoli1-1
+
+ 06.01. 18:30
+Milan
+Roma 3 1
+
+ 06.01. 16:30
+Sassuolo
+Genoa1-1
+
+ 06.01. 14:30
+Lazio
+Empoli 3 3
+
+ 06.01. 14:30
+Spezia
+Verona1-2
+
+ 06.01. 12:30
+Sampdoria
+Cagliari1-2
+
+ GIORNATA 19 22.12. 20:45
+Empoli
+Milan2-4
+
+ 22.12. 20:45
+Napoli
+Spezia0-1
+
+ 22.12. 18:30
+Inter
+Torino1-0
+
+ 22.12. 18:30
+Roma
+Sampdoria1-1
+
+ 22.12. 18:30
+Verona
+Fiorentina1-1
+
+ 22.12. 16:30
+Sassuolo
+Bologna0-3
+
+ 22.12. 16:30
+Venezia
+Lazio1-3
+
+ 21.12. 20:45
+Genoa
+Atalanta0-0
+
+ 21.12. 20:45
+Juventus
+Cagliari2-0
+
+ GIORNATA 18 19.12. 20:45
+Milan
+Napoli0-1
+
+ 19.12. 18:00
+Sampdoria
+Venezia1-1
+
+ 19.12. 18:00
+Torino
+Verona1-0
+
+ 19.12. 15:00
+Spezia
+Empoli1-1
+
+ 19.12. 12:30
+Fiorentina
+Sassuolo2-2
+
+ 18.12. 20:45
+Cagliari
+Udinese0-4
+
+ 18.12. 18:00
+Bologna
+Juventus0-2
+
+ 18.12. 15:00
+Atalanta
+Roma1-4
+
+ 17.12. 20:45
+Salernitana
+Inter0-5
+
+ 17.12. 18:30
+Lazio
+Genoa 3 1
+
+ GIORNATA 17 13.12. 20:45
+Roma
+Spezia2-0
+
+ 12.12. 20:45
+Inter
+Cagliari 4 0
+
+ 12.12. 18:00
+Napoli
+Empoli0-1
+
+ 12.12. 18:00
+Sassuolo
+Lazio2-1
+
+ 12.12. 15:00
+Verona
+Atalanta1-2
+
+ 12.12. 12:30
+Torino
+Bologna2-1
+
+ 11.12. 20:45
+Udinese
+Milan1-1
+
+ 11.12. 18:00
+Venezia
+Juventus1-1
+
+ 11.12. 15:00
+Fiorentina
+Salernitana 4 0
+
+ 10.12. 20:45
+Genoa
+Sampdoria1-3
+
+ GIORNATA 16 06.12. 20:45
+Cagliari
+Torino1-1
+
+ 06.12. 18:30
+Empoli
+Udinese 3 1
+
+ 05.12. 20:45
+Juventus
+Genoa2-0
+
+ 05.12. 18:00
+Sampdoria
+Lazio1-3
+ (3) 05.12. 15:00
+Spezia
+Sassuolo2-2
+
+ 05.12. 15:00
+Venezia
+Verona 3 4 (3)
+ 05.12. 12:30
+Bologna
+Fiorentina2-3
+
+ 04.12. 20:45
+Napoli
+Atalanta2-3
+
+ 04.12. 18:00
+Roma
+Inter0-3
+ (3) 04.12. 15:00
+Milan
+Salernitana2-0
+
+ GIORNATA 15 02.12. 20:45
+Lazio
+Udinese 4 4
+ (3) 02.12. 18:30
+Torino
+Empoli2-2
+
+ 01.12. 20:45
+Genoa
+Milan0-3
+
+ 01.12. 20:45
+Sassuolo
+Napoli2-2
+
+ 01.12. 18:30
+Bologna
+Roma1-0
+
+ 01.12. 18:30
+Inter
+Spezia2-0
+
+ 30.11. 20:45
+Salernitana
+Juventus0-2
+
+ 30.11. 20:45
+Verona
+Cagliari0-0
+
+ 30.11. 18:30
+Atalanta
+Venezia 4 0
+
+ 30.11. 18:30
+Fiorentina
+Sampdoria 31-(3)
+ GIORNATA 14 28.11. 20:45
+Napoli
+Lazio 40-(3)
+ 28.11. 18:00
+Roma
+Torino1-0
+
+ 28.11. 15:00
+Milan
+Sassuolo1-3
+
+ 28.11. 15:00
+Spezia
+Bologna0-1
+
+ 28.11. 12:30
+Udinese
+Genoa0-0
+
+ 27.11. 20:45
+Venezia
+Inter0-2
+
+ 27.11. 18:00
+Juventus
+Atalanta0-1
+
+ 27.11. 15:00
+Empoli
+Fiorentina2-1
+
+ 27.11. 15:00
+Sampdoria
+Verona 3-1
+
+ 26.11. 20:45
+Cagliari
+Salernitana1-1
+
+ GIORNATA 13 22.11. 20:45
+Torino
+Udinese2-1
+
+ 22.11. 18:30
+Verona
+Empoli2-1
+
+ 21.11. 20:45
+Genoa
+Roma0-2
+
+ 21.11. 18:00
+Inter
+Napoli 3 2
+
+ 21.11. 15:00
+Bologna
+Venezia0-1
+
+ 21.11. 15:00
+Salernitana
+Sampdoria0-2
+
+ 21.11. 12:30
+Sassuolo
+Cagliari2-2
+
+ 20.11. 20:45
+Fiorentina
+Milan 4 3
+
+ 20.11. 18:00
+Lazio
+Juventus0-2
+
+ 20.11. 15:00
+Atalanta
+Spezia 52-(3)
+ GIORNATA 12 07.11. 20:45
+Milan
+Inter1-1
+
+ 07.11. 18:00
+Lazio
+Salernitana 3 0
+
+ 07.11. 18:00
+Napoli
+Verona1-1
+
+ 07.11. 15:00
+Sampdoria
+Bologna1-2
+
+ 07.11. 15:00
+Udinese
+Sassuolo 3 2
+
+ 07.11. 12:30
+Venezia
+Roma 3 2
+
+ 06.11. 20:45
+Cagliari
+Atalanta1-2
+
+ 06.11. 18:00
+Juventus
+Fiorentina1-0
+
+ 06.11. 15:00
+Spezia
+Torino1-0
+
+ 05.11. 20:45
+Empoli
+Genoa2-2
+
+ GIORNATA 11 01.11. 20:45
+Bologna
+Cagliari2-0
+
+ 31.10. 20:45
+Roma
+Milan1-2
+
+ 31.10. 18:00
+Salernitana
+Napoli0-1
+
+ 31.10. 15:00
+Fiorentina
+Spezia 3 0
+
+ 31.10. 15:00
+Genoa
+Venezia0-0
+
+ 31.10. 15:00
+Sassuolo
+Empoli1-2
+
+ 31.10. 12:30
+Inter
+Udinese2-0
+
+ 30.10. 20:45
+Torino
+Sampdoria 3 0
+
+ 30.10. 18:00
+Verona
+Juventus2-1
+
+ 30.10. 15:00
+Atalanta
+Lazio2-2
+
+ GIORNATA 10 28.10. 20:45
+Napoli
+Bologna 3 0
+
+ 27.10. 20:45
+Cagliari
+Roma1-2
+
+ 27.10. 20:45
+Empoli
+Inter0-2
+
+ 27.10. 20:45
+Lazio
+Fiorentina1-0
+
+ 27.10. 18:30
+Juventus
+Sassuolo1-2
+
+ 27.10. 18:30
+Sampdoria
+Atalanta1-3
+
+ 27.10. 18:30
+Udinese
+Verona1-1
+
+ 26.10. 20:45
+Milan
+Torino1-0
+
+ 26.10. 18:30
+Spezia
+Genoa1-1
+
+ 26.10. 18:30
+Venezia
+Salernitana1-2
+
+ GIORNATA 9 24.10. 20:45
+Inter
+Juventus1-1
+
+ 24.10. 18:00
+Roma
+Napoli0-0
+
+ 24.10. 15:00
+Fiorentina
+Cagliari 3 0
+
+ 24.10. 15:00
+Verona
+Lazio 4 1
+
+ 24.10. 12:30
+Atalanta
+Udinese1-1
+
+ 23.10. 20:45
+Bologna
+Milan2-4
+
+ 23.10. 18:00
+Sassuolo
+Venezia 3 1
+
+ 23.10. 15:00
+Salernitana
+Empoli2-4
+ (4) 22.10. 20:45
+Sampdoria
+Spezia2-1
+
+ 22.10. 18:30
+Torino
+Genoa 3 2
+
+ GIORNATA 8 18.10. 20:45
+Venezia
+Fiorentina1-0
+
+ 17.10. 20:45
+Juventus
+Roma1-0
+
+ 17.10. 18:00
+Napoli
+Torino1-0
+
+ 17.10. 15:00
+Empoli
+Atalanta1-4
+
+ 17.10. 15:00
+Genoa
+Sassuolo2-2
+
+ 17.10. 15:00
+Udinese
+Bologna1-1
+
+ 17.10. 12:30
+Cagliari
+Sampdoria 3 1
+
+ 16.10. 20:45
+Milan
+Verona 3 2
+
+ 16.10. 18:00
+Lazio
+Inter 3 1
+
+ 16.10. 15:00
+Spezia
+Salernitana2-1
+
+ GIORNATA 7 03.10. 20:45
+Atalanta
+Milan2-3
+
+ 03.10. 18:00
+Fiorentina
+Napoli1-2
+
+ 03.10. 18:00
+Roma
+Empoli2-0
+
+ 03.10. 15:00
+Sampdoria
+Udinese 3 3
+
+ 03.10. 15:00
+Verona
+Spezia 40-(3)
+ 03.10. 12:30
+Bologna
+Lazio 3 0
+
+ 02.10. 20:45
+Sassuolo
+Inter1-2
+
+ 02.10. 18:00
+Torino
+Juventus0-1
+
+ 02.10. 15:00
+Salernitana
+Genoa1-0
+
+ 01.10. 20:45
+Cagliari
+Venezia1-1
+
+ GIORNATA 6 27.09. 20:45
+Venezia
+Torino1-1
+
+ 26.09. 20:45
+Napoli
+Cagliari2-0
+
+ 26.09. 18:00
+Lazio
+Roma 3 2
+
+ 26.09. 15:00
+Empoli
+Bologna 4 2
+
+ 26.09. 15:00
+Sassuolo
+Salernitana1-0
+
+ 26.09. 15:00
+Udinese
+Fiorentina0-1
+
+ 26.09. 12:30
+Juventus
+Sampdoria 3 2
+
+ 25.09. 20:45
+Genoa
+Verona 3 3
+
+ 25.09. 18:00
+Inter
+Atalanta2-2
+
+ 25.09. 15:00
+Spezia
+Milan1-2
+
+ GIORNATA 5 23.09. 20:45
+Roma
+Udinese1-0
+
+ 23.09. 18:30
+Sampdoria
+Napoli0-4
+
+ 23.09. 18:30
+Torino
+Lazio1-1
+
+ 22.09. 20:45
+Cagliari
+Empoli0-2
+
+ 22.09. 20:45
+Milan
+Venezia2-0
+
+ 22.09. 18:30
+Salernitana
+Verona2-2
+
+ 22.09. 18:30
+Spezia
+Juventus2-3
+
+ 21.09. 20:45
+Atalanta
+Sassuolo2-1
+
+ 21.09. 20:45
+Fiorentina
+Inter1-3
+
+ 21.09. 18:30
+Bologna
+Genoa2-2
+
+ GIORNATA 4 20.09. 20:45
+Udinese
+Napoli0-4
+
+ 19.09. 20:45
+Juventus
+Milan1-1
+
+ 19.09. 18:00
+Lazio
+Cagliari2-2
+
+ 19.09. 18:00
+Verona
+Roma 3 2
+
+ 19.09. 15:00
+Venezia
+Spezia1-2
+
+ 19.09. 12:30
+Empoli
+Sampdoria0-3
+
+ 18.09. 20:45
+Salernitana
+Atalanta0-1
+
+ 18.09. 18:00
+Inter
+Bologna 61-(3)
+ 18.09. 15:00
+Genoa
+Fiorentina1-2
+
+ 17.09. 20:45
+Sassuolo
+Torino0-1
+
+ GIORNATA 3 13.09. 20:45
+Bologna
+Verona1-0
+
+ 12.09. 20:45
+Roma
+Sassuolo2-1
+
+ 12.09. 18:00
+Milan
+Lazio2-0
+
+ 12.09. 15:00
+Cagliari
+Genoa2-3
+
+ 12.09. 15:00
+Spezia
+Udinese0-1
+
+ 12.09. 15:00
+Torino
+Salernitana 4 0
+
+ 12.09. 12:30
+Sampdoria
+Inter2-2
+
+ 11.09. 20:45
+Atalanta
+Fiorentina1-2
+
+ 11.09. 18:00
+Napoli
+Juventus2-1
+
+ 11.09. 15:00
+Empoli
+Venezia1-2
+
+ GIORNATA2-29.08. 20:45
+Milan
+Cagliari 41-(4)
+ 29.08. 20:45
+Salernitana
+Roma0-4
+
+ 29.08. 18:30
+Genoa
+Napoli1-2
+
+ 29.08. 18:30
+Sassuolo
+Sampdoria0-0
+
+ 28.08. 20:45
+Fiorentina
+Torino2-1
+
+ 28.08. 20:45
+Juventus
+Empoli0-1
+
+ 28.08. 18:30
+Atalanta
+Bologna0-0
+
+ 28.08. 18:30
+Lazio
+Spezia 61-(3)
+ 27.08. 20:45
+Verona
+Inter1-3
+
+ 27.08. 18:30
+Udinese
+Venezia 3 0
+
+ GIORNATA1-23.08. 20:45
+Sampdoria
+Milan0-1
+
+ 23.08. 18:30
+Cagliari
+Spezia2-2
+
+ 22.08. 20:45
+Napoli
+Venezia2-0
+
+ 22.08. 20:45
+Roma
+Fiorentina 3 1
+
+ 22.08. 18:30
+Bologna
+Salernitana 3 2
+
+ 22.08. 18:30
+Udinese
+Juventus2-2
+
+ 21.08. 20:45
+Empoli
+Lazio1-3
+ (3) 21.08. 20:45
+Torino
+Atalanta1-2
+
+ 21.08. 18:30
+Inter
+Genoa 4 0
+
+ 21.08. 18:30
+Verona
+Sassuolo2-3
+
