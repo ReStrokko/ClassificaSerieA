@@ -11,7 +11,7 @@ namespace ProvaClassi
     {
         static void Main(string[] args)
         {
-            string[] lSquadre = new string[] { "Venezia", "Genoa", "Salernitana","Cagliari","Sampdoria","Spezia","Empoli","Bologna","Udinese","Torino","Sassuolo","Verona","Atalanta","Fiorentina","Lazio","Roma","Juventus","Napoli","Inter","Milan"};
+            string[] lSquadre = new string[] { "Sampdoria","Spezia", "Venezia", "Empoli","Udinese","Torino","Sassuolo","Verona","Atalanta","Fiorentina","Lazio","Roma", "Genoa", "Salernitana", "Cagliari","Juventus","Napoli","Inter","Milan", "Bologna" };
             Torneo SerieA=new Torneo(lSquadre);
         }
     }
@@ -38,6 +38,7 @@ namespace ProvaClassi
             Console.WriteLine("Showing the Leaderboard");
             AssingPoints();
             Classifica();
+            ToJsonFile();
         }
 
 
@@ -54,6 +55,7 @@ namespace ProvaClassi
                 //Console.WriteLine(line);
                 if (line.Contains("GIORNATA"))          //This goes trough the days meaning that there is a new set of matches
                 {
+                    //Console.WriteLine(giornata+"-"+partita);
                     giornata = Convert.ToInt32(line.Split(' ')[1])-1;
                     partita = 0;
                 }
@@ -122,9 +124,11 @@ namespace ProvaClassi
             {
                 for(int j = 0; j < 10; j++)
                 {
-                    if(Giornate[i][j][1,0]> Giornate[i][j][1, 1]){partecipanti[Giornate[i][j][0, 0]].punti+=3;}
-                    if(Giornate[i][j][1,0] == Giornate[i][j][1, 1]) { partecipanti[Giornate[i][j][0, 0]].punti++; partecipanti[Giornate[i][j][0, 1]].punti++; }
-                    if(Giornate[i][j][1,1] > Giornate[i][j][1, 0]) { partecipanti[Giornate[i][j][0, 1]].punti += 3; }
+                    if (!(Giornate[i][j][0, 0] == 0 && Giornate[i][j][1, 0] == 0 && Giornate[i][j][0, 1] == 0 && Giornate[i][j][1, 1] == 0)) {
+                        if (Giornate[i][j][1, 0] > Giornate[i][j][1, 1]) { partecipanti[Giornate[i][j][0, 0]].punti += 3; partecipanti[Giornate[i][j][0, 0]].VSP[0]++; partecipanti[Giornate[i][j][0, 1]].VSP[1]++; }
+                        if (Giornate[i][j][1, 0] == Giornate[i][j][1, 1]) { partecipanti[Giornate[i][j][0, 0]].punti++; partecipanti[Giornate[i][j][0, 1]].punti++; partecipanti[Giornate[i][j][0, 0]].VSP[2]++; partecipanti[Giornate[i][j][0, 1]].VSP[2]++; }
+                        if (Giornate[i][j][1, 1] > Giornate[i][j][1, 0]) { partecipanti[Giornate[i][j][0, 1]].punti += 3; partecipanti[Giornate[i][j][0, 1]].VSP[0]++; partecipanti[Giornate[i][j][0, 0]].VSP[1]++; }
+                    }
                 }
             }
         }
@@ -138,23 +142,47 @@ namespace ProvaClassi
                 classifica[i, 1] = partecipanti[i].punti;
             }
             int tempid,tempval;
-            for(int i = 0; i < classifica.GetLength(1)-1; i++)    //and sort it using a simple bubble sort not the fastest but the easiest.
+            for(int i = 0; i < classifica.GetLength(0); i++)    //and sort it using a simple bubble sort not the fastest but the easiest.
             {
-                for (int j = 0; j < classifica.GetLength(1); j++)
+                for (int j = 0; j < classifica.GetLength(0)-1; j++)
                 {
-                    if(classifica[i, 1] < classifica[j,1 ]){
-                        tempid = classifica[i,0] ;
-                        tempval = classifica[i,1] ;
-                        classifica[i,0]=classifica[j,0] ;
-                        classifica[i,1]=classifica[j,1] ;
-                        classifica[j,0]=tempid ;
-                        classifica[j,1]=tempval ;
+                    if(classifica[j, 1] < classifica[j+1,1 ]){
+                        tempid = classifica[j,0] ;
+                        tempval = classifica[j,1] ;
+                        classifica[j,0]=classifica[j+1,0] ;
+                        classifica[j,1]=classifica[j+1,1] ;
+                        classifica[j+1,0]=tempid ;
+                        classifica[j+1,1]=tempval ;
                     }
                 }
             }
             for(int j = 0; j < classifica.GetLength(0); j++)
             {
-                Console.WriteLine("{0} - {1}",classifica[j,1],partecipanti[classifica[j,0]].Name);
+                Console.WriteLine("{0} - {1} - {2} - {3} - {4}",classifica[j,1],partecipanti[classifica[j,0]].Name, partecipanti[classifica[j, 0]].VSP[0], partecipanti[classifica[j, 0]].VSP[1] , partecipanti[classifica[j, 0]].VSP[2]);
+            }
+        }
+
+        private void ToJsonFile()
+        {
+            string path = @"C:\Users\MicM\Desktop\DB.json";
+            // Create a file to write to.
+            using (StreamWriter sw = File.CreateText(path))
+            {
+                sw.WriteLine('{');
+                for (int i = 0; i < 34; i++)
+                {
+                    sw.WriteLine("  "+'"' + "Giornata" + '"' + ':' + '"' + i + '"' + '{');
+                    for (int j = 0; j < 10; j++)
+                    {
+                        sw.WriteLine("      " + '"' + "Match" + '"' + ':' + '"' + j + '"' + '{');
+                        sw.WriteLine("          " + '"' + Giornate[i][j][0, 0] + '"' + ':' + '"' + Giornate[i][j][1, 0] + '"' + ',');
+                        sw.WriteLine("          " + '"' + Giornate[i][j][0, 1] + '"' + ':' + '"' + Giornate[i][j][1, 1] + '"' + ',');
+                        sw.WriteLine("      " + '}');
+
+                    }
+                }
+                sw.WriteLine("  }");
+                sw.WriteLine("}");
             }
         }
     }
@@ -164,10 +192,12 @@ namespace ProvaClassi
         private string name;
         public string Name { get { return name; } }
         public int punti;
+        public int[] VSP;
         public Squadra(string nome)
         {
             name = nome;
             punti = 0;
+            VSP = new int[3];
         }
     }
 }
